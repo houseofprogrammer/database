@@ -1,19 +1,23 @@
 {
   "events": [],
   "products": [
-    {
-      "id": 1,
-      "name": "iPhone XR",
-      "price": "20.000.000",
-      "stock": 1000,
-      "like": true
-    },
-    {
-      "id": 2,
-      "name": "iPhone 12",
-      "price": "32.000.000",
-      "stock": 1000,
-      "like": false
-    }
-  ]
+  {
+    "id": 1,
+    "name": "iPhone XR",
+    "price": "20.000.000",
+    "stock": 1000,
+    "like": true,
+    "imageUrl": "https://assets.swappie.com/SwappieiPhoneXRRED-1-1-1-600x600.jpg"
+  },
+  {
+    "id": 2,
+    "name": "iPhone 12",
+    "price": "32.000.000",
+    "stock": 1000,
+    "like": false,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71MHTD3uL4L._SL1500_.jpg"
+  }
+]
+
 }
+
