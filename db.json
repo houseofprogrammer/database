@@ -1,23 +1,313 @@
 {
-  "events": [],
-  "products": [
-  {
-    "id": 1,
-    "name": "iPhone XR",
-    "price": "20.000.000",
-    "stock": 1000,
-    "like": true,
-    "imageUrl": "https://assets.swappie.com/SwappieiPhoneXRRED-1-1-1-600x600.jpg"
-  },
-  {
-    "id": 2,
-    "name": "iPhone 12",
-    "price": "32.000.000",
-    "stock": 1000,
-    "like": false,
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71MHTD3uL4L._SL1500_.jpg"
-  }
-]
-
+	"events": [],
+	"products": [{
+			"id": 1,
+			"name": "iPhone XR",
+			"price": "20.000.000",
+			"stock": 1000,
+			"like": true,
+			"imageUrl": "https://assets.swappie.com/SwappieiPhoneXRRED-1-1-1-600x600.jpg"
+		},
+		{
+			"id": 2,
+			"name": "iPhone 12",
+			"price": "32.000.000",
+			"stock": 1000,
+			"like": false,
+			"imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71MHTD3uL4L._SL1500_.jpg"
+		}
+	],
+	"trendings": [{
+			"type": "video",
+			"title": "A Bigger Badder Bowser - Super Mario 3D World + Bowser's Fury - Nintendo Switch",
+			"videoId": "ppkX8epoD9g",
+			"author": "Nintendo",
+			"authorId": "UCGIY_O-8vW4rfX98KlMkvRg",
+			"authorUrl": "/channel/UCGIY_O-8vW4rfX98KlMkvRg",
+			"videoThumbnails": [{
+					"quality": "maxres",
+					"url": "/vi/ppkX8epoD9g/maxres.jpg",
+					"width": 1280,
+					"height": 720
+				},
+				{
+					"quality": "maxresdefault",
+					"url": "https://i.ytimg.com/vi/ppkX8epoD9g/maxresdefault.jpg",
+					"width": 1280,
+					"height": 720
+				},
+				{
+					"quality": "sddefault",
+					"url": "https://i.ytimg.com/vi/ppkX8epoD9g/sddefault.jpg",
+					"width": 640,
+					"height": 480
+				},
+				{
+					"quality": "high",
+					"url": "https://i.ytimg.com/vi/ppkX8epoD9g/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				},
+				{
+					"quality": "medium",
+					"url": "https://i.ytimg.com/vi/ppkX8epoD9g/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				{
+					"quality": "default",
+					"url": "https://i.ytimg.com/vi/ppkX8epoD9g/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				{
+					"quality": "start",
+					"url": "https://i.ytimg.com/vi/ppkX8epoD9g/1.jpg",
+					"width": 120,
+					"height": 90
+				},
+				{
+					"quality": "middle",
+					"url": "https://i.ytimg.com/vi/ppkX8epoD9g/2.jpg",
+					"width": 120,
+					"height": 90
+				},
+				{
+					"quality": "end",
+					"url": "https://i.ytimg.com/vi/ppkX8epoD9g/3.jpg",
+					"width": 120,
+					"height": 90
+				}
+			],
+			"description": "Bowser has become gargantuan and lost all control! Join forces with Bowser Jr. to stop his big bad dad in the Bowser's Fury adventure, included in the Super Mario 3D World + Bowser's Fury game....",
+			"descriptionHtml": "Bowser has become gargantuan and lost all control! Join forces with Bowser Jr. to stop his big bad dad in the Bowser&#39;s Fury adventure, included in the Super Mario 3D World + Bowser&#39;s Fury game....",
+			"viewCount": 3215851,
+			"published": 1610462217,
+			"publishedText": "19 hours ago",
+			"lengthSeconds": 137,
+			"liveNow": false,
+			"paid": false,
+			"premium": false,
+			"isUpcoming": false
+		},
+		{
+			"type": "video",
+			"title": "College Football Playoff National Championship Game Highlights: Alabama vs. Ohio State | ESPN",
+			"videoId": "JRYEF_y_t_U",
+			"author": "ESPN College Football",
+			"authorId": "UCzRWWsFjqHk1an4OnVPsl9g",
+			"authorUrl": "/channel/UCzRWWsFjqHk1an4OnVPsl9g",
+			"videoThumbnails": [{
+					"quality": "maxres",
+					"url": "/vi/JRYEF_y_t_U/maxres.jpg",
+					"width": 1280,
+					"height": 720
+				},
+				{
+					"quality": "maxresdefault",
+					"url": "https://i.ytimg.com/vi/JRYEF_y_t_U/maxresdefault.jpg",
+					"width": 1280,
+					"height": 720
+				},
+				{
+					"quality": "sddefault",
+					"url": "https://i.ytimg.com/vi/JRYEF_y_t_U/sddefault.jpg",
+					"width": 640,
+					"height": 480
+				},
+				{
+					"quality": "high",
+					"url": "https://i.ytimg.com/vi/JRYEF_y_t_U/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				},
+				{
+					"quality": "medium",
+					"url": "https://i.ytimg.com/vi/JRYEF_y_t_U/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				{
+					"quality": "default",
+					"url": "https://i.ytimg.com/vi/JRYEF_y_t_U/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				{
+					"quality": "start",
+					"url": "https://i.ytimg.com/vi/JRYEF_y_t_U/1.jpg",
+					"width": 120,
+					"height": 90
+				},
+				{
+					"quality": "middle",
+					"url": "https://i.ytimg.com/vi/JRYEF_y_t_U/2.jpg",
+					"width": 120,
+					"height": 90
+				},
+				{
+					"quality": "end",
+					"url": "https://i.ytimg.com/vi/JRYEF_y_t_U/3.jpg",
+					"width": 120,
+					"height": 90
+				}
+			],
+			"description": "Watch the highlights as Mac Jones, DeVonta Smith, Najee Harris and the Alabama Crimson Tide take on Justin Fields and the Ohio State Buckeyes in the 2021 College Football Playoff National Champions...",
+			"descriptionHtml": "Watch the highlights as Mac Jones, DeVonta Smith, Najee Harris and the Alabama Crimson Tide take on Justin Fields and the Ohio State Buckeyes in the 2021 College Football Playoff National Champions...",
+			"viewCount": 1685820,
+			"published": 1610444217,
+			"publishedText": "1 day ago",
+			"lengthSeconds": 609,
+			"liveNow": false,
+			"paid": false,
+			"premium": false,
+			"isUpcoming": false
+		},
+		{
+			"type": "video",
+			"title": "King Von - Armed & Dangerous (Official Video)",
+			"videoId": "tBKYI3-3lMg",
+			"author": "King Von",
+			"authorId": "UC47kJWRBD-NREBvmBg5kWeA",
+			"authorUrl": "/channel/UC47kJWRBD-NREBvmBg5kWeA",
+			"videoThumbnails": [{
+					"quality": "maxres",
+					"url": "/vi/tBKYI3-3lMg/maxres.jpg",
+					"width": 1280,
+					"height": 720
+				},
+				{
+					"quality": "maxresdefault",
+					"url": "https://i.ytimg.com/vi/tBKYI3-3lMg/maxresdefault.jpg",
+					"width": 1280,
+					"height": 720
+				},
+				{
+					"quality": "sddefault",
+					"url": "https://i.ytimg.com/vi/tBKYI3-3lMg/sddefault.jpg",
+					"width": 640,
+					"height": 480
+				},
+				{
+					"quality": "high",
+					"url": "https://i.ytimg.com/vi/tBKYI3-3lMg/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				},
+				{
+					"quality": "medium",
+					"url": "https://i.ytimg.com/vi/tBKYI3-3lMg/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				{
+					"quality": "default",
+					"url": "https://i.ytimg.com/vi/tBKYI3-3lMg/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				{
+					"quality": "start",
+					"url": "https://i.ytimg.com/vi/tBKYI3-3lMg/1.jpg",
+					"width": 120,
+					"height": 90
+				},
+				{
+					"quality": "middle",
+					"url": "https://i.ytimg.com/vi/tBKYI3-3lMg/2.jpg",
+					"width": 120,
+					"height": 90
+				},
+				{
+					"quality": "end",
+					"url": "https://i.ytimg.com/vi/tBKYI3-3lMg/3.jpg",
+					"width": 120,
+					"height": 90
+				}
+			],
+			"description": "From the album \"Welcome to O'Block\". Out now!\nStream: https://music.empi.re/oblock.oyd\nShot by @jerryphd\n\nFollow King Von:\nhttps://www.instagram.com/kingvonfrmdao\nhttps://twitter.com/KingVonFrmdaWi...",
+			"descriptionHtml": "From the album &quot;Welcome to O&#39;Block&quot;. Out now!\nStream: https://music.empi.re/oblock.oyd\nShot by @jerryphd\n\nFollow King Von:\nhttps://www.instagram.com/kingvonfrmdao\nhttps://twitter.com/KingVonFrmdaWi...",
+			"viewCount": 4653510,
+			"published": 1610444217,
+			"publishedText": "1 day ago",
+			"lengthSeconds": 123,
+			"liveNow": false,
+			"paid": false,
+			"premium": false,
+			"isUpcoming": false
+		},
+		{
+			"type": "video",
+			"title": "Cannons - Fire for You (Official Video)",
+			"videoId": "u4HQevc9JE0",
+			"author": "Cannons",
+			"authorId": "UCq5ePOCJ5iYJEUQgojeGh8A",
+			"authorUrl": "/channel/UCq5ePOCJ5iYJEUQgojeGh8A",
+			"videoThumbnails": [{
+					"quality": "maxres",
+					"url": "/vi/u4HQevc9JE0/maxres.jpg",
+					"width": 1280,
+					"height": 720
+				},
+				{
+					"quality": "maxresdefault",
+					"url": "https://i.ytimg.com/vi/u4HQevc9JE0/maxresdefault.jpg",
+					"width": 1280,
+					"height": 720
+				},
+				{
+					"quality": "sddefault",
+					"url": "https://i.ytimg.com/vi/u4HQevc9JE0/sddefault.jpg",
+					"width": 640,
+					"height": 480
+				},
+				{
+					"quality": "high",
+					"url": "https://i.ytimg.com/vi/u4HQevc9JE0/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				},
+				{
+					"quality": "medium",
+					"url": "https://i.ytimg.com/vi/u4HQevc9JE0/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				{
+					"quality": "default",
+					"url": "https://i.ytimg.com/vi/u4HQevc9JE0/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				{
+					"quality": "start",
+					"url": "https://i.ytimg.com/vi/u4HQevc9JE0/1.jpg",
+					"width": 120,
+					"height": 90
+				},
+				{
+					"quality": "middle",
+					"url": "https://i.ytimg.com/vi/u4HQevc9JE0/2.jpg",
+					"width": 120,
+					"height": 90
+				},
+				{
+					"quality": "end",
+					"url": "https://i.ytimg.com/vi/u4HQevc9JE0/3.jpg",
+					"width": 120,
+					"height": 90
+				}
+			],
+			"description": "Listen to ‘Shadows’ featuring “Fire For You” by Cannons now: https://Cannons.lnk.to/SHDWSID \n\nAmazon Music: https://Cannons.lnk.to/SHDWSID/amazonmusic \nApple Music: https://Cannons.lnk.to/S...",
+			"descriptionHtml": "Listen to ‘Shadows’ featuring “Fire For You” by Cannons now: https://Cannons.lnk.to/SHDWSID \n\nAmazon Music: https://Cannons.lnk.to/SHDWSID/amazonmusic \nApple Music: https://Cannons.lnk.to/S...",
+			"viewCount": 1741585,
+			"published": 1602581817,
+			"publishedText": "3 months ago",
+			"lengthSeconds": 235,
+			"liveNow": false,
+			"paid": false,
+			"premium": false,
+			"isUpcoming": false
+		}
+	]
 }
-
